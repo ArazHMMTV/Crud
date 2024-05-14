@@ -1,0 +1,13 @@
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\bin\Debug\net8.0\MultiShop.Core.deps.json
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\bin\Debug\net8.0\MultiShop.Core.dll
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\bin\Debug\net8.0\MultiShop.Core.pdb
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\MultiShop.Core.csproj.AssemblyReference.cache
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\MultiShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\MultiShop.Core.AssemblyInfoInputs.cache
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\MultiShop.Core.AssemblyInfo.cs
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\MultiShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\MultiShop.Core.sourcelink.json
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\MultiShop.Core.dll
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\refint\MultiShop.Core.dll
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\MultiShop.Core.pdb
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\FTOBTASK2\MultiShopTemplate\MultiShop.Core\obj\Debug\net8.0\ref\MultiShop.Core.dll

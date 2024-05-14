@@ -1,0 +1,35 @@
+﻿@using MultiShop.Core.Models
+@model List<Category>
+
+@{
+    int counter = 1;
+}
+<div class="container">
+
+    <div class="row">
+
+        <div class="col-lg-12">
+            <a asp-action="create" asp-controller="category" class="btn btn-primary">Create</a>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+                        <th scope="col">Sira</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+       @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@(counter++)</th>
+                            <td>@item.Name</td>
+                            <td> <a asp-action="delete" asp-controller="category" asp-route-id="@item.Id" class="btn btn-danger">Delete</a></td>
+                            <td> <a asp-action="update" asp-controller="category" asp-route-id="@item.Id" class="btn btn-warning">Update</a></td>
+                        </tr>
+                    }
+    </tbody>
+</table>
+        </div>
+    </div>
+</div>

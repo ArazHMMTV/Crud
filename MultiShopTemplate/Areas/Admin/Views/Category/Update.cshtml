@@ -1,0 +1,17 @@
+﻿@using MultiShop.Core.Models
+@model Category
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <form method="post" asp-action="Update">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Category Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Ayakkabi">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
